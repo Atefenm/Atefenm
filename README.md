@@ -13,7 +13,11 @@ I am a researcher with a background in condensed matter physics and machine lear
 
 ## Research code
 
+[**Machine learning for materials**](https://github.com/Atefenm/machine-learning) — Python scripts and CSV datasets for materials-property modelling, including Hubbard parameters, cell parameters, and magnetic-phase studies. The repository includes neural-network, random-forest, and support-vector-regression scripts.
+
 [**Fingerprint**](https://github.com/Atefenm/Fingerprint-) — Exploratory Python code for constructing atomic fingerprints from structural and elemental information, with a neural-network modelling component.
+
+[**VSSe calculation input**](https://github.com/Atefenm/Atefe) — A Quantum ESPRESSO input file for spin-polarized DFT+U variable-cell relaxation of VSSe, with in-plane cell relaxation.
 
 ## Teaching and supervision
 
